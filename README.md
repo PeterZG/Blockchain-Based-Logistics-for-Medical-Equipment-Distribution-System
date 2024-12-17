@@ -120,10 +120,10 @@ Currently, this project is not under any specific open source license.
 
 ## Email Address
 
-- Glenn Deng - z5362100 - z5362100@ad.unsw.edu.au - Developer & Scrum Master
-- Haotian Luo - z5341069 - z5341069@ad.unsw.edu.au - Developer
-- Weihou Zeng - z5270202 - z5270202@ad.unsw.edu.au - Developer
-- Guangyuan Ma - z5307190 - z5307190@ad.unsw.edu.au - Developer
+- Glenn Deng - z5362100 - Developer & Scrum Master
+- Haotian Luo - z5341069 - Developer
+- Weihou Zeng - z5270202 - Developer
+- Guangyuan Ma - z5307190 - Developer
 
 
 ## Acknowledgments
