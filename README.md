@@ -108,11 +108,6 @@ This is a private project and we have completed the development phase. However, 
 - **Weihou Zeng** - *Backend* - [Weihou](https://github.com/PeterZG)
 
 
-See also the list of [contributors](https://github.com/unsw-cse-comp3900-9900-23T3/capstone-project-3900m09aswordnewnew/graphs/contributors) who participated in this project.
-
-If the link [contributors](https://github.com/unsw-cse-comp3900-9900-23T3/capstone-project-3900m09aswordnewnew/graphs/contributors) here is unsuccessful, please click on the 'Contributors' button on the right side of our project homepage for more information.
-
-
 ## License
 
 Currently, this project is not under any specific open source license.
