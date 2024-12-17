@@ -97,8 +97,9 @@ If you encounter any deployment or command issues, please email us for consultat
 
 ## Contributing
 
-This is a private project and we have completed the development phase. However, if you have questions or would like to learn more about the project, please feel free to contact us via the email addresses provided below[Email Address].
+This is a private project and we have completed the development phase. However, if you have questions or would like to learn more about the project, please feel free to contact us via the email addresses provided below.
 
+[weihouzeng@gmail.com][849997616@qq.com]
 
 ## Authors
 
@@ -113,7 +114,7 @@ This is a private project and we have completed the development phase. However, 
 Currently, this project is not under any specific open source license.
 
 
-## Email Address
+## Members
 
 - Glenn Deng - z5362100 - Developer
 - Haotian Luo - z5341069 - Developer
