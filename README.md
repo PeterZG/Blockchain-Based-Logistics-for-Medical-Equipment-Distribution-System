@@ -95,11 +95,10 @@ The React application should now be running on [http://localhost:3000](http://lo
 If you encounter any deployment or command issues, please email us for consultation[weihouzeng@gmail.com][849997616@qq.com].
 
 
-## Contributing
+## Overview
 
-This is a private project and we have completed the development phase. However, if you have questions or would like to learn more about the project, please feel free to contact us via the email addresses provided below.
+This is a private project and we have completed the development phase. However, if you have questions or would like to learn more about the project, please feel free to contact us via the email addresses provided[weihouzeng@gmail.com][849997616@qq.com].
 
-[weihouzeng@gmail.com][849997616@qq.com]
 
 ## Authors
 
