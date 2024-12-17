@@ -26,7 +26,7 @@ This project is a Blockchain Medical Supply Chain System designed to enhance the
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/unsw-cse-comp3900-9900-23T3/capstone-project-3900m09aswordnewnew.git
+git clone https://github.com/PeterZG/Blockchain-Based-Logistics-for-Medical-Equipment-Distribution-System.git
 ```
 
 2. Install the frontend dependencies:
