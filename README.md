@@ -92,7 +92,7 @@ The React application should now be running on [http://localhost:3000](http://lo
 
 ## Contact Us for Support
 
-If you encounter any deployment or command issues, please email us for consultation[z5307190@ad.unsw.edu.au].
+If you encounter any deployment or command issues, please email us for consultation[weihouzeng@gmail.com][849997616@qq.com].
 
 
 ## Contributing
