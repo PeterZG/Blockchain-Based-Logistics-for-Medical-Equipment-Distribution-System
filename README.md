@@ -102,10 +102,10 @@ This is a private project and we have completed the development phase. However, 
 
 ## Authors
 
-- **Guangyuan Ma** - *Blockchain and backend* - [Guangyuan](https://github.com/Noplusultra)
-- **Yuchuan Deng** - *Blockchain and backend* - [Yuchuan](https://github.com/dyc54)
-- **Haotian Luo** - *Frontend* - [Haotian](https://github.com/Haotian14)
-- **Weihou Zeng** - *Backend* - [Weihou](https://github.com/PeterZG)
+- **Guangyuan Ma** - *Primary Backend and Blockchain* - [Guangyuan](https://github.com/Noplusultra)
+- **Yuchuan Deng** - *Primary Backend and Frontend, Secondary Blockchain* - [Yuchuan](https://github.com/dyc54)
+- **Haotian Luo** - *Primary Frontend* - [Haotian](https://github.com/Haotian14)
+- **Weihou Zeng** - *Primary Backend and Blockchain, Secondary Frontend* - [Weihou](https://github.com/PeterZG)
 
 
 ## License
