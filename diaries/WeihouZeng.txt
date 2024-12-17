@@ -65,4 +65,4 @@ Week 9 (6/11 - 12/11)
 
 Week 10 (13/11 - 19/11)
 - Successfully completed the project by wrapping up the final report,
-conducting a comprehensive code review, and successfully delivering the project showcase.
+- conducting a comprehensive code review, and successfully delivering the project showcase.
