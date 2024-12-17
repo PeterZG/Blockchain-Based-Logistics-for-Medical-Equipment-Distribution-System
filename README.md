@@ -57,7 +57,7 @@ deploy.sh is used to create channel, join channel, update the anchor peer and a 
 
 (the binary file in our project is based on linux-amd64. If you use the mac os, you need to downloads the correct version file and change the /bin /builders /config file in the Blockchain https://github.com/hyperledger/fabric/releases)
 
-For more specific deployment issues,you can see the md file "BlockchainDeploy.md".If you still can not resolve the problem, please contact us;[z5307190@ad.unsw.edu.au].
+For more specific deployment issues,you can see the md file "BlockchainDeploy.md".If you still can not resolve the problem, please contact us;[weihouzeng@gmail.com][849997616@qq.com].
 
 ### Running the Application
 
