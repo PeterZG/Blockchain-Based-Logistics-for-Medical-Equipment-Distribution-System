@@ -100,10 +100,10 @@ React 应用运行在 [http://localhost:3000](http://localhost:3000)，Spring Bo
 
 ## 作者
 
-- **马广原* - *区块链与后端* - [Guangyuan](https://github.com/Noplusultra)  
-- **邓榆川** - *区块链与后端* - [Yuchuan](https://github.com/dyc54)  
-- **罗昊天** - *前端* - [Haotian](https://github.com/Haotian14)  
-- **曾维厚** - *后端* - [Weihou](https://github.com/PeterZG)  
+- **马广原* - *主要后端与区块链* - [Guangyuan](https://github.com/Noplusultra)  
+- **邓榆川** - *主要后端与前端，次区块链* - [Yuchuan](https://github.com/dyc54)  
+- **罗昊天** - *主要前端* - [Haotian](https://github.com/Haotian14)  
+- **曾维厚** - *主要后端，次前端和区块链* - [Weihou](https://github.com/PeterZG)  
 
 ## 许可协议
 
