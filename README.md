@@ -115,7 +115,7 @@ Currently, this project is not under any specific open source license.
 
 ## Email Address
 
-- Glenn Deng - z5362100 - Developer & Scrum Master
+- Glenn Deng - z5362100 - Developer
 - Haotian Luo - z5341069 - Developer
 - Weihou Zeng - z5270202 - Developer
 - Guangyuan Ma - z5307190 - Developer
