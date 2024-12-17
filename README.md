@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This project is a Blockchain Medical Supply Chain System designed to enhance the traceability and authenticity of medical supplies from production to consumption. By utilizing Hyperledger Fabric, we ensure a decentralized, secure, and transparent supply chain management platform tailored for the medical industry.
+Under the commission of Dr. Arash Shaghaghi, we developed a blockchain-based medical equipment distribution system aimed at addressing the shortcomings of traditional healthcare supply chains in terms of transparency and efficiency, particularly the challenges of distributing critical supplies during health crises. We utilized Hyperledger Fabric to ensure the immutability of data and incorporated features such as real-time tracking, inventory management, dynamic supply-demand adjustment, and anti-counterfeiting verification to ensure transparency of information and efficient collaboration among stakeholders. This system significantly enhanced the transparency and efficiency of the medical supply chain, providing robust technical support for the supply of medical resources during health crises.
 
 ## Technical Framework
 
