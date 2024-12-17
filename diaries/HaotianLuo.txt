@@ -1,3 +1,6 @@
+Haotian Luo - z5341069
+
+
 Week1：
 I formed a team with other people and we decided to do project 12, which is blockchain. 
 For the frontend, we will use React and Nodejs since a lot of companies are using it. 
