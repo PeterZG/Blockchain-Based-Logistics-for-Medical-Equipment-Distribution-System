@@ -114,14 +114,6 @@ This is a private project and we have completed the development phase. However, 
 Currently, this project is not under any specific open source license.
 
 
-## Members
-
-- Glenn Deng - z5362100 - Developer
-- Haotian Luo - z5341069 - Developer
-- Weihou Zeng - z5270202 - Developer
-- Guangyuan Ma - z5307190 - Developer
-
-
 ## Acknowledgments
 
 - Hat tip to anyone whose code was used
