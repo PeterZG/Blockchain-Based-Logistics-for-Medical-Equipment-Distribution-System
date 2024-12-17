@@ -1,3 +1,6 @@
+Glenn Deng - z5362100
+
+
 Week1：Group formed and named. Selected scrum master. Created the Jira site. Decided the topic. Decided I will do frontend.
 
 Week2: As a team we decided to use javascript for frontend and java for backend. Start coding on frontend. I drew the flow diagram and explained it.
