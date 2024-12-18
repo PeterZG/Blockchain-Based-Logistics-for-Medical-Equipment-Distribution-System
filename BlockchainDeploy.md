@@ -39,8 +39,9 @@ sudo bash deploy.sh
 If no errors are reported and the status of the last initialization shows 200 proves that the blockchain network has been successfully deployed.
 If you encounter any unsolvable problems or can't get it to start successfully, please contact us
 
-z5307190@ad.unsw.edu.au
-
+weihouzeng@gmail.com
+Or
+849997616@qq.com
 
 More attention:
 Using a linux virtual machine or other environment is similar to this, but note that we don't support operating with a unix system such as a mac. 
