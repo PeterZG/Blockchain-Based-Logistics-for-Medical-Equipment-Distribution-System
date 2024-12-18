@@ -18,6 +18,7 @@ https://github.com/unsw-cse-comp3900-9900-23T3/capstone-project-3900m09aswordnew
 change to the /Blockchain folder
 
 3.
+run the generate.sh
 ```sh
 sudo bash generate.sh
 ```
